@@ -1,0 +1,780 @@
+﻿Log file open, 12/30/18 14:58:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoad
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.289824
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.155s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 8.1 (), CPU:        Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 660
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2018.12.30-22.58.52:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.30-22.58.52:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.30-22.58.52:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2018.12.30-22.58.52:886][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2018.12.30-22.58.52:892][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.30-22.58.52:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.30-22.58.52:893][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.30-22.58.52:894][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.30-22.58.52:894][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.30-22.58.52:894][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.30-22.58.52:894][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:894][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.30-22.58.52:894][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.30-22.58.52:894][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-22.58.52:894][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.30-22.58.52:913][  0]LogHAL: Display: Platform has ~ 16 GB [17155579904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.30-22.58.52:913][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.30-22.58.52:913][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.30-22.58.52:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.30-22.58.52:914][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.30-22.58.52:915][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.30-22.58.52:915][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2018.12.30-22.58.52:916][  0]LogInit: Computer: PAUL-PC
+[2018.12.30-22.58.52:916][  0]LogInit: User: Paul
+[2018.12.30-22.58.52:916][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.30-22.58.52:916][  0]LogInit: High frequency timer resolution =3.233219 MHz
+[2018.12.30-22.58.52:916][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.30-22.58.52:916][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.30-22.58.52:916][  0]LogMemory: Process Physical Memory: 99.77 MB used, 99.77 MB peak
+[2018.12.30-22.58.52:916][  0]LogMemory: Process Virtual Memory: 84.20 MB used, 84.20 MB peak
+[2018.12.30-22.58.52:916][  0]LogMemory: Physical Memory: 5031.20 MB used,  11329.64 MB free, 16360.84 MB total
+[2018.12.30-22.58.52:916][  0]LogMemory: Virtual Memory: 475.98 MB used,  134217248.00 MB free, 134217728.00 MB total
+[2018.12.30-22.58.52:940][  0]LogInit: Using OS detected language (en-US).
+[2018.12.30-22.58.52:940][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.30-22.58.52:941][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.30-22.58.53:694][  0]LogStreaming: Display: Took  0.754s to InitEngineTextLocalization.
+[2018.12.30-22.58.53:694][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.30-22.58.53:728][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.30-22.58.53:728][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.30-22.58.54:051][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.12.30-22.58.54:051][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.30-22.58.54:099][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.12.30-22.58.54:099][  0]LogD3D11RHI:       1970/0/8180 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.30-22.58.54:100][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.30-22.58.54:100][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.30-22.58.54:100][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.30-22.58.54:106][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.30-22.58.54:106][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.30-22.58.54:106][  0]LogWindows: EnumDisplayDevices:
+[2018.12.30-22.58.54:106][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.12.30-22.58.54:106][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:1)
+[2018.12.30-22.58.54:107][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.12.30-22.58.54:107][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.12.30-22.58.54:107][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.30-22.58.54:107][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.12.30-22.58.54:107][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2018.12.30-22.58.54:107][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2018.12.30-22.58.54:107][  0]LogRHI: Texture pool is 1379 MB (70% of 1970 MB)
+[2018.12.30-22.58.54:148][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.30-22.58.54:184][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.30-22.58.54:889][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.30-22.58.54:914][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.30-22.58.54:939][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.30-22.58.54:964][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.30-22.58.54:990][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.30-22.58.55:016][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.30-22.58.55:041][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.30-22.58.55:066][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.30-22.58.55:078][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-22.58.55:232][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.30-22.58.55:324][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-22.58.55:324][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-22.58.55:371][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-22.58.55:371][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-22.58.55:395][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.30-22.58.55:421][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.30-22.58.55:446][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.30-22.58.55:471][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.30-22.58.55:556][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.30-22.58.55:556][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.30-22.58.55:556][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.30-22.58.55:625][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Intermediate/Shaders/WorkingDirectory/7648/).
+[2018.12.30-22.58.55:626][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Paul/AppData/Local/Temp/UnrealShaderWorkingDir/D02FFA5045E554525B846583011BFEE5/'.
+[2018.12.30-22.58.55:628][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.30-22.58.55:628][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.30-22.58.55:628][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.30-22.58.56:751][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.30-22.58.56:838][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/Paul/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.30-22.58.56:838][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Paul/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.30-22.58.56:838][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.30-22.58.56:838][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.30-22.58.56:838][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.30-22.58.56:838][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.30-22.58.56:865][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.30-22.58.56:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.30-22.58.56:865][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.30-22.58.56:877][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Paul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.30-22.58.56:877][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.30-22.58.56:877][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.30-22.58.56:922][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.30-22.58.56:925][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.30-22.58.56:926][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.30-22.58.57:062][  0]LogAssetRegistry: FAssetRegistry took 0.0448 seconds to start up
+[2018.12.30-22.58.57:709][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-22.58.57:981][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.30-22.58.57:985][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.30-22.58.57:985][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.30-22.58.57:985][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.30-22.58.57:985][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.30-22.58.58:004][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1360775825)
+[2018.12.30-22.58.58:805][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.117303 seconds
+[2018.12.30-22.58.58:815][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.30-22.58.58:815][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.30-22.58.58:815][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.30-22.59.00:034][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.30-22.59.00:048][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.30-22.59.01:054][  0]SourceControl: Source control is disabled
+[2018.12.30-22.59.01:054][  0]SourceControl: Source control is disabled
+[2018.12.30-22.59.01:055][  0]SourceControl: Source control is disabled
+[2018.12.30-22.59.01:056][  0]SourceControl: Source control is disabled
+[2018.12.30-22.59.01:248][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.30-22.59.01:328][  0]LogOcInput: OculusInput pre-init called
+[2018.12.30-22.59.01:497][  0]LogEngine: Initializing Engine...
+[2018.12.30-22.59.01:524][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.12.30-22.59.01:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-22.59.01:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-22.59.01:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-22.59.01:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-22.59.01:860][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.30-22.59.01:875][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.30-22.59.01:890][  0]LogInit: XAudio2 using 'Speakers (Steam Streaming Microphone)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.30-22.59.01:897][  0]LogInit: FAudioDevice initialized.
+[2018.12.30-22.59.01:897][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.30-22.59.02:006][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/Paul/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.30-22.59.02:013][  0]LogInit: Texture streaming: Enabled
+[2018.12.30-22.59.02:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.30-22.59.02:045][  0]LogInit: Transaction tracking system initialized
+[2018.12.30-22.59.02:068][  0]BlueprintLog: New page: Editor Load
+[2018.12.30-22.59.02:154][  0]LocalizationService: Localization service is disabled
+[2018.12.30-22.59.02:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Content/' took 0.01s
+[2018.12.30-22.59.02:823][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.30-22.59.02:823][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.30-22.59.02:823][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.30-22.59.02:823][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-22.59.02:823][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-22.59.02:824][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-22.59.02:824][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-22.59.03:012][  0]SourceControl: Source control is disabled
+[2018.12.30-22.59.03:013][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.30-22.59.03:013][  0]LightingResults: New page: Lighting Build
+[2018.12.30-22.59.03:017][  0]MapCheck: New page: Map Check
+[2018.12.30-22.59.03:017][  0]LightingResults: New page: Lighting Build
+[2018.12.30-22.59.04:100][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.30-22.59.04:118][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.30-22.59.04:572][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.30-22.59.04:572][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2018.12.30-22.59.04:572][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.560
+[2018.12.30-22.59.04:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-22.59.04:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-22.59.04:751][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-22.59.04:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-22.59.04:779][  0]LogCollectionManager: Loaded 0 collections in 0.001957 seconds
+[2018.12.30-22.59.04:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Collections/' took 0.01s
+[2018.12.30-22.59.04:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Content/Developers/Paul/Collections/' took 0.04s
+[2018.12.30-22.59.04:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Content/Collections/' took 0.03s
+[2018.12.30-22.59.04:889][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.30-22.59.04:910][  0]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 2651 classes and 620 folders.
+[2018.12.30-22.59.04:929][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.30-22.59.04:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:978][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.04:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.05:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.30-22.59.05:079][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.30-22.59.05:095][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.12.30-22.59.05:365][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.30-22.59.05:369][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.30-22.59.05:382][  0]LogSlate: Took 0.001314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.30-22.59.05:563][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.30-22.59.05:655][  0]LogSlate: Took 0.001441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.30-22.59.05:915][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.30-22.59.05:915][  0]LogLoad: (Engine Initialization) Total time: 14.94 seconds
+[2018.12.30-22.59.05:915][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.30-22.59.06:031][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.30-22.59.06:464][  4]LogAssetRegistry: Asset discovery search completed in 9.4246 seconds
+[2018.12.30-22.59.06:467][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.30-22.59.06:467][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.12.30-22.59.06:956][ 42]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.30-22.59.07:287][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-23.08.30:409][  7]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.30-23.08.30:659][  8]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.30-23.11.20:450][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Player.BP_Player
+[2018.12.30-23.11.21:484][751]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2018.12.30-23.11.23:442][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RED_CAR.RED_CAR
+[2018.12.30-23.11.24:075][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BLUE_CAR_BP.BLUE_CAR_BP
+[2018.12.30-23.11.24:701][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_FLOOR.BP_FLOOR
+[2018.12.30-23.11.25:406][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_TRUCK.BP_TRUCK
+[2018.12.30-23.11.26:087][751]LogSlate: Took 0.001428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.30-23.11.31:173][  0]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-23.11.31:220][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.11.31:221][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-23.11.31:223][  0]PIE: New page: PIE session: Minimal_Default (Dec 30, 2018, 7:11:31 AM)
+[2018.12.30-23.11.31:239][  0]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.30-23.11.31:247][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007283s)
+[2018.12.30-23.11.31:248][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.30-23.11.31:248][  0]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2018.12.30-23.11.31:248][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008986s)
+[2018.12.30-23.11.31:320][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.30-23.11.31:329][  0]LogInit: FAudioDevice initialized.
+[2018.12.30-23.11.31:376][  0]LogLoad: Game class is 'GM_Base_C'
+[2018.12.30-23.11.31:381][  0]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.12.30-15.11.31
+[2018.12.30-23.11.31:382][  0]LogWorld: Bringing up level for play took: 0.001816
+[2018.12.30-23.11.31:405][  0]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2018.12.30-23.11.31:415][  0]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.137
+[2018.12.30-23.11.31:416][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.11.38:341][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.11.38:342][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.11.38:384][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-23.11.38:384][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.11.38:444][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.11.38:488][360]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.30-23.11.41:903][536]LogEditorViewport: Clicking on Actor (LMB): BP_FLOOR_C (BP_FLOOR)
+[2018.12.30-23.11.43:541][608]Cmd: DELETE
+[2018.12.30-23.11.43:541][608]Cmd: ACTOR DELETE
+[2018.12.30-23.11.43:550][608]LogEditorActor: Deleted Actor: BP_FLOOR_C
+[2018.12.30-23.11.43:612][608]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.12.30-23.11.45:262][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-23.11.45:739][706]LogSavePackage: Moving '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Minimal_DefaultE822DD6B4938820877EED0996DE0F6F3.tmp' to '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.12.30-23.11.45:901][706]LogSavePackage: Moving '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Minimal_Default_BuiltData43CDEF174683C09473E320977B328A21.tmp' to '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.12.30-23.21.10:746][937]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-23.21.10:795][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.10:795][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-23.21.10:796][937]PIE: New page: PIE session: Minimal_Default (Dec 30, 2018, 7:21:10 AM)
+[2018.12.30-23.21.10:796][937]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.30-23.21.10:801][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004923s)
+[2018.12.30-23.21.10:802][937]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.30-23.21.10:803][937]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2018.12.30-23.21.10:803][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006363s)
+[2018.12.30-23.21.10:874][937]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.30-23.21.10:884][937]LogInit: FAudioDevice initialized.
+[2018.12.30-23.21.10:923][937]LogLoad: Game class is 'GM_Base_C'
+[2018.12.30-23.21.10:925][937]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.12.30-15.21.10
+[2018.12.30-23.21.10:925][937]LogWorld: Bringing up level for play took: 0.001298
+[2018.12.30-23.21.10:948][937]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.669
+[2018.12.30-23.21.10:948][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.27:487][833]LogBlueprintUserMessages: [RED_CAR_C_4] HIT DETECTED
+[2018.12.30-23.21.28:543][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.28:544][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.21.28:593][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-23.21.28:593][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.28:654][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.21.28:700][889]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.30-23.21.29:484][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-23.21.29:576][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-23.21.29:618][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.29:618][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-23.21.29:618][933]PIE: New page: PIE session: Minimal_Default (Dec 30, 2018, 7:21:29 AM)
+[2018.12.30-23.21.29:618][933]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.30-23.21.29:622][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003909s)
+[2018.12.30-23.21.29:623][933]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.30-23.21.29:623][933]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.12.30-23.21.29:623][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004975s)
+[2018.12.30-23.21.29:695][933]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.30-23.21.29:705][933]LogInit: FAudioDevice initialized.
+[2018.12.30-23.21.29:740][933]LogLoad: Game class is 'GM_Base_C'
+[2018.12.30-23.21.29:741][933]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.12.30-15.21.29
+[2018.12.30-23.21.29:742][933]LogWorld: Bringing up level for play took: 0.000885
+[2018.12.30-23.21.29:760][933]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.519
+[2018.12.30-23.21.29:760][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.45:480][773]LogBlueprintUserMessages: [RED_CAR_C_6] HIT DETECTED
+[2018.12.30-23.21.47:109][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.47:110][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.21.47:148][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-23.21.47:149][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.21.47:213][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.21.47:254][867]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.30-23.22.20:956][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.128
+[2018.12.30-23.26.45:416][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.30-23.27.42:463][513]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-23.27.42:509][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.27.42:509][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-23.27.42:510][513]PIE: New page: PIE session: Minimal_Default (Dec 30, 2018, 7:27:42 AM)
+[2018.12.30-23.27.42:510][513]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.30-23.27.42:515][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005558s)
+[2018.12.30-23.27.42:517][513]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.30-23.27.42:517][513]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2018.12.30-23.27.42:517][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007300s)
+[2018.12.30-23.27.42:657][513]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID RGB USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.30-23.27.42:682][513]LogInit: FAudioDevice initialized.
+[2018.12.30-23.27.42:748][513]LogLoad: Game class is 'GM_Base_C'
+[2018.12.30-23.27.42:750][513]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.12.30-15.27.42
+[2018.12.30-23.27.42:750][513]LogWorld: Bringing up level for play took: 0.001023
+[2018.12.30-23.27.42:773][513]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.494
+[2018.12.30-23.27.42:773][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.27.46:087][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.27.46:088][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.27.46:150][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-23.27.46:151][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.30-23.27.46:230][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-23.27.46:282][641]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.31-00.25.56:242][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.31-00.26.09:739][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.31-00.26.12:353][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.31-00.26.16:401][101]Cmd: DELETE
+[2018.12.31-00.26.16:401][101]Cmd: ACTOR DELETE
+[2018.12.31-00.26.16:405][101]LogEditorActor: Deleted Actor: BP_TRUCK_C
+[2018.12.31-00.26.16:487][101]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2018.12.31-00.26.18:429][211]LogEditorViewport: Clicking on Actor (LMB): BP_FLOOR_C (BP_FLOOR)
+[2018.12.31-00.26.20:011][287]Cmd: DELETE
+[2018.12.31-00.26.20:011][287]Cmd: ACTOR DELETE
+[2018.12.31-00.26.20:014][287]LogEditorActor: Deleted Actor: BP_FLOOR_C
+[2018.12.31-00.26.20:078][287]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.12.31-00.26.24:231][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.31-00.26.24:395][511]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/lil_pink_car.lil_pink_car
+[2018.12.31-00.26.25:392][511]LogRenderer: Reallocating scene render targets to support 1208x644 Format 10 NumSamples 1 (Frame:1).
+[2018.12.31-00.26.25:393][511]LogSlate: Took 0.003545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.31-00.26.46:448][608]BlueprintLog: New page: Compile RED_CAR
+[2018.12.31-00.27.35:012][990]LogSavePackage: Moving '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Minimal_Default_Auto1627E84E44B53035A16B6C9922B8EAEC3.tmp' to '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.12.31-00.27.35:018][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.289
+[2018.12.31-00.27.35:018][990]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.289
+[2018.12.31-00.27.35:019][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RED_CAR] ([1] browsable assets)...
+[2018.12.31-00.27.35:040][990]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RED_CAR.RED_CAR]
+[2018.12.31-00.27.35:040][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/RED_CAR]
+[2018.12.31-00.27.35:040][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RED_CAR" FILE="../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/RED_CAR_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.31-00.27.35:104][990]LogSavePackage: Moving '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/RED_CAR_Auto13ACC41CA4214D8694545BA8EEDA32A31.tmp' to '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/RED_CAR_Auto1.uasset'
+[2018.12.31-00.27.35:105][990]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.12.31-00.52.43:587][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.31-00.53.01:723][378]LogSlate: Took 0.003570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.31-00.58.56:337][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.063
+[2018.12.31-00.58.56:339][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_FLOOR] ([1] browsable assets)...
+[2018.12.31-00.58.56:362][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_FLOOR.BP_FLOOR]
+[2018.12.31-00.58.56:362][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_FLOOR]
+[2018.12.31-00.58.56:362][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_FLOOR" FILE="../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/BP_FLOOR_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.12.31-00.58.56:458][662]LogSavePackage: Moving '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/BP_FLOOR_Auto216F6A5074E806C3273A75B814BAE1B4A.tmp' to '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/BP_FLOOR_Auto2.uasset'
+[2018.12.31-00.58.56:460][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_TRUCK] ([1] browsable assets)...
+[2018.12.31-00.58.56:478][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_TRUCK.BP_TRUCK]
+[2018.12.31-00.58.56:478][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_TRUCK]
+[2018.12.31-00.58.56:478][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TRUCK" FILE="../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/BP_TRUCK_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.12.31-00.58.56:528][662]LogSavePackage: Moving '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/BP_TRUCK_Auto2A7EFA216439E6B440FDA04A1A77485EC.tmp' to '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/BP_TRUCK_Auto2.uasset'
+[2018.12.31-00.58.56:529][662]LogFileHelpers: Auto-saving content packages took 0.190
+[2018.12.31-01.08.56:846][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.045
+[2018.12.31-01.08.56:852][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_FLOOR] ([1] browsable assets)...
+[2018.12.31-01.08.56:873][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_FLOOR.BP_FLOOR]
+[2018.12.31-01.08.56:873][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_FLOOR]
+[2018.12.31-01.08.56:873][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_FLOOR" FILE="../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/BP_FLOOR_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.12.31-01.08.56:977][414]LogSavePackage: Moving '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/BP_FLOOR_Auto3A9B6F5D24E0F76EC70E9D980F84A9F36.tmp' to '../../../../../../Users/Paul/Documents/GitHub/crossyroad/CrossyRoad/Saved/Autosaves/Game/BP_FLOOR_Auto3.uasset'
+[2018.12.31-01.08.56:977][414]LogFileHelpers: Auto-saving content packages took 0.126
+[2018.12.31-01.50.15:203][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.31-01.50.21:339][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.31-01.50.57:924][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.31-01.51.07:537][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.31-01.51.08:388][147]Cmd: TRANSACTION UNDO
+[2018.12.31-01.51.08:388][147]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.31-01.51.08:394][147]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.31-01.51.08:994][147]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.599 s
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: 
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: 
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: Stack: 
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff1af98508 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11bffd42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11c2ac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11c1131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11c7b337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11cbf63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11c5717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11c10a5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff11c0a696 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff12510a03 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007ffefe69773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007ffefe697b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff12f8226e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff130879fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff13090090 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff13062a0f UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff1314c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff13091da5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff12f38e25 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff12fd2678 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff12fb857a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff12fab44c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff42ecde26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff42ec0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff42ed01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff42ebca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff5a582434 USER32.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff5a582297 USER32.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff42ed1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007ff6b09a5546 UE4Editor.exe!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007ff6b09b596c UE4Editor.exe!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007ff6b09b59ea UE4Editor.exe!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007ff6b09c48da UE4Editor.exe!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007ff6b09c659a UE4Editor.exe!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff588f16ad KERNEL32.DLL!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: [Callstack] 0x00007fff5b024629 ntdll.dll!UnknownFunction []
+[2018.12.31-01.51.08:994][147]LogOutputDevice: Error: 
+[2018.12.31-01.51.09:006][147]LogStats:                SubmitErrorReport -  0.000 s
